@@ -42,22 +42,3 @@ Features images related to user roles, profiles, and access permissions configur
 
 ### **Videos/**
 Holds preview images of demonstration videos, offering a glimpse into the Salesforce solution’s functionality.
-
----
-
-## Additional Resources  
-
-### **Testimonial**
-Watch my testimonial to learn about my experience during this internship:  
-[Watch Testimonial](https://drive.google.com/file/d/1nzUUhatw9plcdWMF8YZ3iS8j-lv225h6/view?usp=sharing)
-
-### **Demo**
-Explore the demo video of the project, showcasing its key functionalities:  
-[Watch Demo](https://drive.google.com/file/d/1C8pEAIZY2NrRqmvoJWRdhqEYvAai78ne/view?usp=sharing)  
-
-### **Documentation**
-Access detailed project documentation for in-depth understanding:  
-[View Documentation](https://drive.google.com/file/d/1SQSMSr1dItZWVhGi-6ESl82JmqN8lbmO/view?usp=sharing)  
-[View Documentation](https://docs.google.com/document/d/1oNfB1xA5KKlDrJ1ycowzYtdPPBgL5DBf/edit?usp=sharing&ouid=111681225658177405442&rtpof=true&sd=true)
-
----
